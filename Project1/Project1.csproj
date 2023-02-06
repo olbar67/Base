@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D75DC7DF-DF60-446C-AF24-1ADB27945845}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project1</RootNamespace>
+    <AssemblyName>Project1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10 Журнал.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10 Журнал.Designer.cs">
+      <DependentUpon>Form10 Журнал.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11 Выбор группы.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11 Выбор группы.Designer.cs">
+      <DependentUpon>Form11 Выбор группы.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form12 Выбор выходных.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12 Выбор выходных.Designer.cs">
+      <DependentUpon>Form12 Выбор выходных.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form13 Статистика.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13 Статистика.Designer.cs">
+      <DependentUpon>Form13 Статистика.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form14 Фильтр.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14 Фильтр.Designer.cs">
+      <DependentUpon>Form14 Фильтр.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form15 Вход.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form15 Вход.Designer.cs">
+      <DependentUpon>Form15 Вход.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form16 Пароли.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form16 Пароли.Designer.cs">
+      <DependentUpon>Form16 Пароли.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form17 Помощь Главная.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form17 Помощь Главная.Designer.cs">
+      <DependentUpon>Form17 Помощь Главная.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form18.Designer.cs">
+      <DependentUpon>Form18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2 Воспитанники.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2 Воспитанники.Designer.cs">
+      <DependentUpon>Form2 Воспитанники.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3 Отмена изм.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3 Отмена изм.Designer.cs">
+      <DependentUpon>Form3 Отмена изм.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4 Удаление.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4 Удаление.Designer.cs">
+      <DependentUpon>Form4 Удаление.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5 Поиск.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5 Поиск.Designer.cs">
+      <DependentUpon>Form5 Поиск.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6 Родитель.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6 Родитель.Designer.cs">
+      <DependentUpon>Form6 Родитель.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7 Сотрудник.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7 Сотрудник.Designer.cs">
+      <DependentUpon>Form7 Сотрудник.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8 Группы.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8 Группы.Designer.cs">
+      <DependentUpon>Form8 Группы.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9 Список группы.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9 Список группы.Designer.cs">
+      <DependentUpon>Form9 Список группы.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListViewColumnComparer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10 Журнал.resx">
+      <DependentUpon>Form10 Журнал.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11 Выбор группы.resx">
+      <DependentUpon>Form11 Выбор группы.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12 Выбор выходных.resx">
+      <DependentUpon>Form12 Выбор выходных.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13 Статистика.resx">
+      <DependentUpon>Form13 Статистика.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14 Фильтр.resx">
+      <DependentUpon>Form14 Фильтр.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form15 Вход.resx">
+      <DependentUpon>Form15 Вход.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form16 Пароли.resx">
+      <DependentUpon>Form16 Пароли.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form17 Помощь Главная.resx">
+      <DependentUpon>Form17 Помощь Главная.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form18.resx">
+      <DependentUpon>Form18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2 Воспитанники.resx">
+      <DependentUpon>Form2 Воспитанники.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3 Отмена изм.resx">
+      <DependentUpon>Form3 Отмена изм.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4 Удаление.resx">
+      <DependentUpon>Form4 Удаление.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5 Поиск.resx">
+      <DependentUpon>Form5 Поиск.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6 Родитель.resx">
+      <DependentUpon>Form6 Родитель.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7 Сотрудник.resx">
+      <DependentUpon>Form7 Сотрудник.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8 Группы.resx">
+      <DependentUpon>Form8 Группы.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9 Список группы.resx">
+      <DependentUpon>Form9 Список группы.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\h1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\8.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

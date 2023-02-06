@@ -1,0 +1,146 @@
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Ольга\Desktop\ghj,f 1\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\Base\Base\Project1\bin\Debug\Project1.exe.config
+C:\Users\Ольга\Desktop\Base\Base\Project1\bin\Debug\Project1.exe
+C:\Users\Ольга\Desktop\Base\Base\Project1\bin\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.exe
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form3.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form4.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form5.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form6.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form7.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form8.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form9.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form10.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form11.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form12.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form13.resources
+C:\Users\Ольга\Desktop\Base\Base\Project1\obj\Debug\Project1.Form14.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\bin\Debug\Project1.exe.config
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\bin\Debug\Project1.exe
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\bin\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form10.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form11.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form12.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form13.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form14.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form15.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form3.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form4.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form5.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form6.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form7.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form8.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form9.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.exe
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\Base — копия\Base\Project1\obj\Debug\Project1.Form16.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\bin\Debug\Project1.exe.config
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\bin\Debug\Project1.exe
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\bin\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form10.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form11.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form12.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form13.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form14.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form15.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form16.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form3.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form4.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form5.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form6.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form7.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form8.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form9.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.exe
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.pdb
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form17.resources
+C:\Users\Ольга\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form18.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\bin\Debug\Project1.exe.config
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\bin\Debug\Project1.exe
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\bin\Debug\Project1.pdb
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form1.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form10.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form11.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form12.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form13.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form14.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form15.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form16.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form17.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form18.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form2.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form3.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form4.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form5.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form6.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form7.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form8.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Form9.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.exe
+C:\LA\инст\Диплом бакалавр\Base с разграничением\Base\Project1\obj\Debug\Project1.pdb
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\bin\Debug\Project1.exe.config
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form10.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form11.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form12.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form13.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form14.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form15.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form16.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form17.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form18.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form3.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form4.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form5.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form6.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form7.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form8.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Form9.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.exe
+C:\Users\user\Desktop\Base с разграничением\Base\Project1\obj\Debug\Project1.pdb
